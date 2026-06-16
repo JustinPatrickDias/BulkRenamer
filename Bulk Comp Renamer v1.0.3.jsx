@@ -1,6 +1,6 @@
-// Bulk Comp Renamer — dockable ScriptUI panel
-// Install: Save to After Effects > Scripts > ScriptUI Panels folder,
-// then open via Window menu.
+// Bulk Comp Renamer
+// Version 1.0.3
+// Script UI Panel for renaming assets in the project panel
 
 (function(thisObj)
 {
@@ -270,4 +270,8 @@
         ui.show();
     }
 
-})(this);
+}
+)
+(this);
+
+
