@@ -1,2 +1,2 @@
-# BulkCompRenamer
+# Bulk Renamer
 After Effects ScriptUI Panel for Bulk Renaming Compositions
