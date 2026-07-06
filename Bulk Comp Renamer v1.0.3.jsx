@@ -20,7 +20,6 @@
     }
 
     // Parses a comp name into base, separator, pad width, and current version number.
-    // Recognises trailing patterns like "_v001", " v15", "_V3".
     function splitVersion(name)
     {
         var m = name.match(/^(.*?)([ _])v(\d+)$/i);
